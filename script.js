@@ -34,7 +34,7 @@ button.addEventListener("click" , async ()=>{
         `
         }
 
-    // When error in api fetch
+    // When error in api  fetch
     catch (error){
         console.log(error,"Error in Fetching Api");
         
